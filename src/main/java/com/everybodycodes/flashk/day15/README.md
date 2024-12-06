@@ -1,3 +1,3 @@
 # Day 15: 
 
-[https://adventofcode.com/{year}/day/15](https://adventofcode.com/{year}/day/15)
+[https://everybody.codes/event/{year}/quests](https://everybody.codes/event/{year}/quests)

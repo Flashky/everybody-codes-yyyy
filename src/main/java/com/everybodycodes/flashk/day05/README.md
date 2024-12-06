@@ -1,3 +1,3 @@
 # Day 5: 
 
-[https://adventofcode.com/{year}/day/5](https://adventofcode.com/{year}/day/5)
+[https://everybody.codes/event/{year}/quests](https://everybody.codes/event/{year}/quests)
