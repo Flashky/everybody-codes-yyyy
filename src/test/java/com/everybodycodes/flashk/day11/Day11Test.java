@@ -26,7 +26,7 @@ public class Day11Test extends PuzzleTest {
 
 	@Test
 	@Order(1)
-	@Tag(TestTag.PART_ONE)
+	@Tag(TestTag.PART_1)
 	@Tag(TestTag.SAMPLE)
 	@DisplayName(TestDisplayName.PART_1_SAMPLE)
 	public void testSolvePart1Sample() {
@@ -38,7 +38,7 @@ public class Day11Test extends PuzzleTest {
 
 	@Test
 	@Order(2)
-	@Tag(TestTag.PART_ONE)
+	@Tag(TestTag.PART_1)
 	@Tag(TestTag.INPUT)
 	@DisplayName(TestDisplayName.PART_1_INPUT)
 	public void testSolvePart1Input() {
@@ -50,7 +50,7 @@ public class Day11Test extends PuzzleTest {
 
 	@Test
 	@Order(3)
-	@Tag(TestTag.PART_TWO)
+	@Tag(TestTag.PART_2)
 	@Tag(TestTag.SAMPLE)
 	@DisplayName(TestDisplayName.PART_2_SAMPLE)
 	public void testSolvePart2Sample() {
@@ -62,7 +62,7 @@ public class Day11Test extends PuzzleTest {
 
 	@Test
 	@Order(4)
-	@Tag(TestTag.PART_TWO)
+	@Tag(TestTag.PART_2)
 	@Tag(TestTag.INPUT)
 	@DisplayName(TestDisplayName.PART_2_INPUT)
 	public void testSolvePart2Input() {
@@ -74,7 +74,7 @@ public class Day11Test extends PuzzleTest {
 
 	@Test
 	@Order(5)
-	@Tag(TestTag.PART_THREE)
+	@Tag(TestTag.PART_3)
 	@Tag(TestTag.SAMPLE)
 	@DisplayName(TestDisplayName.PART_3_SAMPLE)
 	public void testSolvePart3Sample() {
@@ -85,7 +85,7 @@ public class Day11Test extends PuzzleTest {
 
 	@Test
 	@Order(6)
-	@Tag(TestTag.PART_THREE)
+	@Tag(TestTag.PART_3)
 	@Tag(TestTag.INPUT)
 	@DisplayName(TestDisplayName.PART_3_INPUT)
 	public void testSolvePart3Input() {
