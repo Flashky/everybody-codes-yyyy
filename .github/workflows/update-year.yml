@@ -7,7 +7,7 @@ on:
         required: true
         default: 'yyyy'
 env:
-  YEAR: ${{ env.YEAR }}
+  YEAR: ${{ github.event.inputs.YEAR }}
 jobs:
   verify:
     runs-on: ubuntu-latest
